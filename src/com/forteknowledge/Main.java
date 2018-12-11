@@ -3,6 +3,6 @@ package com.forteknowledge;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("Commit to remote repository");
     }
 }
